@@ -34,7 +34,8 @@ Copy code
 flutter run
 Usage
 Explore the beautifully animated card and observe the dynamic counters. This app is a perfect starting point for creating eye-catching UI elements in your own Flutter projects.
-
+![Screenshot_2024_0923_193718](https://github.com/user-attachments/assets/82d6cad9-2133-4e12-b435-6f83d0d635b4)
+![Screenshot_20240923_193712](https://github.com/user-attachments/assets/7a0a20ea-378f-44d1-9d9f-f6c5343c937d)
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
